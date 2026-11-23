@@ -1,0 +1,74 @@
+.obsidian/app.json
+.obsidian/appearance.json
+00 - Home.md
+01 - Project/Connectivity Matrix.md
+01 - Project/Current Testbed Architecture.md
+01 - Project/Data Domains.md
+01 - Project/IP Address Plan.md
+01 - Project/Project Overview.md
+01 - Project/Target Kafka Hub Architecture.md
+02 - Network Fundamentals/Ethernet IP TCP UDP HTTP2.md
+02 - Network Fundamentals/Management Control Data and Telemetry Planes.md
+02 - Network Fundamentals/Network Performance Metrics.md
+02 - Network Fundamentals/OSI Model.md
+02 - Network Fundamentals/Push Pull PubSub and Streaming.md
+02 - Network Fundamentals/Queues QoS Congestion and Drops.md
+02 - Network Fundamentals/REST HTTP vs gRPC.md
+02 - Network Fundamentals/Routing RIB FIB and Forwarding.md
+02 - Network Fundamentals/Switching VLAN MAC and ARP.md
+02 - Network Fundamentals/TCP-IP Stack.md
+02 - Network Fundamentals/Time Synchronization NTP and PTP.md
+03 - Telemetry/Current Telemetry Pipelines.md
+03 - Telemetry/Data Formats JSON Protobuf and Prometheus Text.md
+03 - Telemetry/GoFlow2.md
+03 - Telemetry/Junos Telemetry.md
+03 - Telemetry/Protocol Buffers.md
+03 - Telemetry/Streaming Telemetry.md
+03 - Telemetry/Telegraf.md
+03 - Telemetry/YANG and OpenConfig.md
+03 - Telemetry/gNMI.md
+03 - Telemetry/gRPC.md
+03 - Telemetry/sFlow.md
+04 - Kafka/Batching Compression and Backpressure.md
+04 - Kafka/Canonical Event Schema.md
+04 - Kafka/Closed Loop Messaging.md
+04 - Kafka/Delivery Ordering and Reliability.md
+04 - Kafka/Failure Scenarios.md
+04 - Kafka/Kafka Cluster Replication and Fault Tolerance.md
+04 - Kafka/Kafka Overview.md
+04 - Kafka/Kafka Security.md
+04 - Kafka/Performance Tuning for NDT.md
+04 - Kafka/Producers Consumers and Consumer Groups.md
+04 - Kafka/Retention Compaction and Replay.md
+04 - Kafka/Schema Evolution and Registry.md
+04 - Kafka/Topic Architecture Proposal.md
+04 - Kafka/Topics Partitions Keys and Offsets.md
+05 - Monitoring/Grafana.md
+05 - Monitoring/Monitoring vs Analytics.md
+05 - Monitoring/NDT Health and Observability.md
+05 - Monitoring/Prometheus.md
+06 - SDN/Closed Loop Control.md
+06 - SDN/Ryu.md
+06 - SDN/SDN Fundamentals.md
+06 - SDN/SDN and Southbound Protocols.md
+07 - NDT/Event Time State Reconciliation and Snapshots.md
+07 - NDT/NDT Fundamentals.md
+07 - NDT/NDT State Model.md
+07 - NDT/Prediction Optimization and GNNs.md
+07 - NDT/Synchronization - Freshness Reliability Consistency.md
+08 - Experimentation/Cisco TRex.md
+08 - Experimentation/Evaluation Metrics.md
+08 - Experimentation/Experiment Scenarios.md
+08 - Experimentation/ExperimentRunner.md
+08 - Experimentation/Measurement Methodology.md
+09 - Thesis/Research Questions.md
+09 - Thesis/Study Roadmap.md
+09 - Thesis/Thesis Contribution Map.md
+09 - Thesis/Thesis Working Structure.md
+10 - Reference/Glossary.md
+10 - Reference/Open Questions and Verification Checklist.md
+10 - Reference/Ports Protocols and Formats Cheat Sheet.md
+10 - Reference/Quick Mental Model.md
+10 - Reference/Source Index.md
+Assets/testbed-network-architecture.png
+README.md
